@@ -1,1 +1,4 @@
 # CM121Assignment
+The controls of the game are tank control, so vertical keys to move forward and backwards while horizontal keys are for rotating left and right. There are three pickups in the game, two of which open two separate doors once collected while the third one returns the player to the main menu scene.
+There are two separate scenes called Assignment 5 and Assignment 5 Main Menu. If played in the editor, you should be in the Assignment 5 Main Menu scene for it to start on that scene whereas if played in the other scene will start in that scene but it'll go to main menu once all the collectibles have been collected.
+The Assets used in the Assignment where the game's map which is called Sci-Fi Styled Modular Pack by KARBOOSX. (All partical effects were from the asset pack as well and the same from Assignment 3). The character model is the Unity-chan pack mentioned in class. All animations and models are from that asset pack.
